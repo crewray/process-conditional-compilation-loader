@@ -13,9 +13,10 @@
   "keywords": [
     "webpack",
     "loader",
+    "uniappp",
     "vue",
-    "$refs",
-    "async"
+    "conditional",
+    "compilation"
   ],
   "author": "crewray",
   "license": "MIT",
@@ -24,10 +25,5 @@
   },
   "homepage": "https://github.com/crewray/process-conditional-compilation-loader#readme",
   "dependencies": {
-    "@babel/parser": "^7.14.7",
-    "@babel/traverse": "^7.14.7",
-    "@babel/generator": "^7.14.7",
-    "@babel/types": "^7.14.5",
-    "vue-template-compiler": "^2.6.14"
   }
 }
